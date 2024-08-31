@@ -8,6 +8,12 @@
 }
 
 #blue-36px {
-    color: rgb(52, 52, 251);
+    color: #3434fb;
     font-size: 36px;
+}
+
+#greenbg-bold-24px {
+    background-color: rgb(190, 255, 91);
+    font-weight: bold;
+    font-size: 24px;
 }
