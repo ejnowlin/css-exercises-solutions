@@ -3,6 +3,10 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
+.twenty-four-px {
+    font-size: 24px;
+}
+
 #blue-36px {
     color: rgb(52, 52, 251);
     font-size: 36px;
