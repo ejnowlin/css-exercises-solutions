@@ -39,6 +39,8 @@ body {
 }
 
 .logo {
+  display: flex;
+  align-items: center;
   color: rebeccapurple;
   font-size: 32px;
   font-weight: 900;
