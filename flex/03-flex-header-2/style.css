@@ -56,6 +56,8 @@ button {
 }
 
 a {
+  display: flex;
+  margin: 8px;
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
