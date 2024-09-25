@@ -22,6 +22,10 @@ img {
   gap: 52px;
 }
 
+.content {
+  max-width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
