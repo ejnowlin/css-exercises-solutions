@@ -26,3 +26,10 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
