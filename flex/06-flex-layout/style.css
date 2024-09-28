@@ -27,6 +27,13 @@ input {
   width: 400px;
 }
 
+ul {
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
 .container {
   display: flex;
   flex-direction: column;
