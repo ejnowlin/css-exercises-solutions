@@ -55,3 +55,7 @@ a {
     justify-content: space-between;
     padding: 20px;
 }
+
+.footer {
+  background-color: #eeeeee;
+}
