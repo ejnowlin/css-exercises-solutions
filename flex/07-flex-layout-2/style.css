@@ -21,9 +21,9 @@ body {
   color: white;
 }
 
-
 .footer {
   height: 72px;
+  justify-content: center;
   background: #eee;
   color: darkmagenta;
 }
