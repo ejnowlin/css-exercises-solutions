@@ -47,6 +47,10 @@ ul {
   list-style-type: none;
 }
 
+li {
+  margin: 10px;
+}
+
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
